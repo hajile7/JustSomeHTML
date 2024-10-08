@@ -1,0 +1,11 @@
+.myTitle {
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+.bodyParagraph {
+    text-align: left;
+    font-size: 2rem;
+    margin: 2.5%;
+}
